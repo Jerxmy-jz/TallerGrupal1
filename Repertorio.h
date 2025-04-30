@@ -50,6 +50,17 @@ int op;
                                              Suma();
                                                  break;
                                                  case 3:
+                                                  int n1,n2;
+                                             cout<<"---------COMPARAR DOS NÚMEROS--------"<<endl;
+                                             cout<<"Ingrese el primer numero: ";
+                                             cin>>n1;
+                                             cout<<"Ingrese el segundo numero: ";
+                                             cin>>n2;
+                                            if(n1<n2){
+                                            cout<<"El numero "<<n1<<" es menor "<<n2<<endl;
+                                             }else{
+                                             cout<<"El numero "<<n1<<" es mayor "<< n2<<endl;
+                                             }
                                                      break;
                                                      case 4:
                                                          break;

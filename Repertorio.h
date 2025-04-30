@@ -31,7 +31,7 @@ int op;
      cout << " -->> Menu de opciones <<--" << endl;
          cout << "1. Hello World" << endl;
              cout << "2. Suma de dos numeros" << endl;
-                 cout << "3. " << endl;
+                 cout << "3.Comparar dos números mayor o menor " << endl;
                      cout << "4. " << endl;
                          cout << "5. " << endl;
                              cout << "6.  Salir" << endl;
